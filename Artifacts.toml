@@ -1,38 +1,38 @@
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64fc318d73e16faaa83df53220e0d2e8e10aee20"
+git-tree-sha1 = "83e005e038ca1276dc470b556cb7ff5040b1cf36"
 os = "macos"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "ca57d9b63187d8f04930860d40ccfa3fcff112ef7f420dcc39de306cc6d0b999"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.7.0+0/LCIO_Julia_Wrapper.v0.7.0.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "4cb10bc740ec519599a97bfdde97d4a480a950cea6e3d7d1796da48d5e2a135b"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.8.0+0/LCIO_Julia_Wrapper.v0.8.0.x86_64-apple-darwin14-cxx11.tar.gz"
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a6cb36288600d0589fa37b20d1afa26f3a18613"
+git-tree-sha1 = "df10c28d6e4acec9d0a59123e6d09abc6d60ce8f"
 os = "macos"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "e3051bf940fd3e87ae71e6a8145409490f69a66d19ca02f2ea31bd070c07bf9b"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.7.0+0/LCIO_Julia_Wrapper.v0.7.0.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "6180cc9fd1e957815a2be8e2f9e5b0847710904fcaf49f8d57ef6db1a2141b2c"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.8.0+0/LCIO_Julia_Wrapper.v0.8.0.x86_64-apple-darwin14-cxx03.tar.gz"
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96ec458c9f4985b2a353649c6260ca7c7de767ed"
+git-tree-sha1 = "d35199c35ebe1e7e890afc026cb15364f9eae648"
 libc = "glibc"
 os = "linux"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "436f5ba1cad1aacd887289672db228cc49f1b416a254c863df2a566f6a1871b2"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.7.0+0/LCIO_Julia_Wrapper.v0.7.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "345b418768b348303bbad243d735adc02cef6e0ac985830300caee9b6b28da59"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.8.0+0/LCIO_Julia_Wrapper.v0.8.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f0ac0e5d150a5f1ca45ffc8230c9efd78f89d099"
+git-tree-sha1 = "e3ad1886490e1d88f7aefcc1c3c2c89f8f53ad4e"
 libc = "glibc"
 os = "linux"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "d147020f92c5e3f409ad914d6dd0e736cb93c68bcf92668c9a7e1155919d2b61"
-    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.7.0+0/LCIO_Julia_Wrapper.v0.7.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "bd12d9a027cd9efb5301f2643cf9eaa7751c3e6bff46a50b4c9d0adb77fc1d16"
+    url = "https://github.com/JuliaBinaryWrappers/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.8.0+0/LCIO_Julia_Wrapper.v0.8.0.x86_64-linux-gnu-cxx03.tar.gz"
