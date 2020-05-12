@@ -7,6 +7,7 @@ using LCIO_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
+LIBPATH_default = ""
 
 # Relative path to `lciowrap`
 const lciowrap_splitpath = ["lib", "liblciowrap.so"]
