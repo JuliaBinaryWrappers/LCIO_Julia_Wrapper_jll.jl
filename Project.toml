@@ -1,6 +1,6 @@
 name = "LCIO_Julia_Wrapper_jll"
 uuid = "1fe59b3e-ae39-56b2-a121-c4c5e6ddab56"
-version = "0.12.0+0"
+version = "0.12.1+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -11,4 +11,4 @@ LCIO_jll = "35fd387a-780d-5580-bc3c-2dd06d6487c2"
 [compat]
 julia = "1.0"
 libcxxwrap_julia_jll = "=0.8.0"
-LCIO_jll = "=2.15.0"
+LCIO_jll = "=2.15.3"
