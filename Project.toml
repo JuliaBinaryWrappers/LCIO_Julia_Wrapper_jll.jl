@@ -1,6 +1,6 @@
 name = "LCIO_Julia_Wrapper_jll"
 uuid = "1fe59b3e-ae39-56b2-a121-c4c5e6ddab56"
-version = "0.12.2+0"
+version = "0.13.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,6 +12,6 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.1.0"
-julia = "1.0"
-libcxxwrap_julia_jll = "=0.8.0"
-LCIO_jll = "=2.15.3"
+julia = "^1.5"
+libcxxwrap_julia_jll = "=0.8.5"
+LCIO_jll = "=2.15.4"
